@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "TestProject1",
+			"Name": "ue4JenkinsTests",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
