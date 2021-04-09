@@ -10,8 +10,6 @@
 
 ![ProjectConfig4.PNG](_Readme_resources/ProjectConfig4.PNG)
 
-### Build commands
-
 ---
 
 "C:\Program Files\Epic Games\UE_4.25\Engine\Binaries\DotNet\UnrealBuildTool.exe" -projectfiles -project="C:\Users\user\Documents\JenkinsWorkspace\ue4JenkinsTests.uproject"
@@ -44,14 +42,20 @@ FOR %%F IN ("%MY_BRANCH_NAME:/=" "%") DO (SET "MY_BRANCH_NAME=%%~F")
 
 ![ProjectConfig5.PNG](_Readme_resources/ProjectConfig5.PNG)
 
+<br/>
+
+## GitHub Setup
+
+[Update Jenkins build status on GitHub events](https://applitools.com/blog/how-to-update-jenkins-build-status-in-github-pull-requests-step-by-step-tutorial)
+
+<br/>
+
 ## Jenkins System config
 
 ![SystemConfig1.png](_Readme_resources/SystemConfig1.png)
 
-<br/><br/>
+<br/><br/><br/>
 
 ## Bibliography
 
 [Automation with Unreal Engine and Jenkins-CI](https://patricevignola.com/post/automation-jenkins-unreal)
-
-[GitHub Setup](https://applitools.com/blog/how-to-update-jenkins-build-status-in-github-pull-requests-step-by-step-tutorial)
