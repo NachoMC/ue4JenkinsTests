@@ -47,3 +47,11 @@ FOR %%F IN ("%MY_BRANCH_NAME:/=" "%") DO (SET "MY_BRANCH_NAME=%%~F")
 ## Jenkins System config
 
 ![SystemConfig1.png](_Readme_resources/SystemConfig1.png)
+
+<br/><br/>
+
+## Bibliography
+
+[Automation with Unreal Engine and Jenkins-CI](https://patricevignola.com/post/automation-jenkins-unreal)
+
+[GitHub Setup](https://applitools.com/blog/how-to-update-jenkins-build-status-in-github-pull-requests-step-by-step-tutorial)
